@@ -1,0 +1,8 @@
+
+
+Client Folder: npm i react-bootstrap bootstrap
+npm i uuid
+
+Server Folder: npm init -y
+npm i socket.io
+npm i --save-dev nodemon
